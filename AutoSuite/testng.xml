@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automate Suite">
+	<test thread-count="5" name="Automate Test">
+		<classes>
+			<class name=".AutoRunner" />
+		</classes>
+	</test> <!-- Automate Test -->
+</suite> <!-- Automate Suite -->

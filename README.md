@@ -4,7 +4,7 @@ A test automation suite to run through and validate a website's functionalities.
 PURPOSE:-
 
 As a part of learning efforts, for this project I have picked a simple website to run an automated test.
-This website https://www.saucedemo.com/index.htmla has got a bunch of functionalities that can be tested 
+This website https://www.saucedemo.com/index.html has got a bunch of functionalities that can be tested 
 manually or through automation.
 --------------------------------------------------------------------------------
 

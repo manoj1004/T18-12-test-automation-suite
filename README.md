@@ -25,9 +25,7 @@ In order to perform an automated test on our target items, I have used the follo
 1. Web Scraping technique - to read webelement references (XPath, CSSselector, etc) to click and fill fields actions.
 2. Selenium WebDrivers    - to establish browser set up, connections and navigation throughout the process.
 3. Test NG Framework      - annotations and libraries to write assertions and decide the sequence of execution.
-4. Extent Report          - Although TestNG and Junit provide test reports, Extent reports provide 
-                            a much comprehensive one with graphical representations. It is also more 
-                            presentable by the way it displays the test execution log.
+4. Extent Report          - Although TestNG and Junit provide test reports, Extent reports are more comprehensive with its                                 graphical representations. It is also more presentable by the way it shows the test execution log.
 5. Maven repo - pom.xml   - to fetch libraries for selenium, testNG, junit, extent reports
 
 --------------------------------------------------------------------------------
